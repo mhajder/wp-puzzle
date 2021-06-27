@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-06-26 23:31+0200\n"
+"PO-Revision-Date: 2021-06-26 23:51+0200\n"
+"Last-Translator: Mateusz Hajder\n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: puzzle-plugin.php\n"
+
+#: puzzle-plugin.php:28
+msgid "Puzzle - tap or shift tap to rotate"
+msgstr "Puzzle - dotknij lub dotknij z shiftem, aby obrócić"
+
+#: puzzle-plugin.php:334
+msgid "Placed ${placed} pieces of ${num}"
+msgstr "Ułożono ${placed} z ${num} puzzli"
+
+#: puzzle-plugin.php:351
+msgid "Congratulations all ${num} pieces placed!"
+msgstr "Gratulacje, wszystkie puzzle (${num}) ułożone!"
+
+#: puzzle-plugin.php:365
+msgid "AGAIN"
+msgstr "PONOWNIE"
+
+#: puzzle-plugin.php:379
+msgid "Placed ${placed} piece${placed == 1 ? \"\" : \"s\"} of ${num}"
+msgstr "Ułożono ${placed} z ${num} puzzli"
+
+#: puzzle-plugin.php:387
+msgid "hint"
+msgstr "podpowiedź"
+
+#: puzzle-plugin.php:392
+msgid "picture"
+msgstr "obrazek"
